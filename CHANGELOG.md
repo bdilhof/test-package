@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/bdilhof/test-package/compare/v1.1.0...v1.1.1) (2026-02-04)
+
+
+### Bug Fixes
+
+* Fixed broken feature 1 ([2bf5bdc](https://github.com/bdilhof/test-package/commit/2bf5bdc677f35de4d6b9c9e8820a4b1fa3695dde))
+
 # [1.1.0](https://github.com/bdilhof/test-package/compare/v1.0.0...v1.1.0) (2026-02-04)
 
 
