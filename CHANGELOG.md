@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/bdilhof/test-package/compare/v1.2.0...v1.3.0) (2026-02-05)
+
+
+### Features
+
+* New feature again ([ebc68bd](https://github.com/bdilhof/test-package/commit/ebc68bde4ada939b2cbb7809c358339822b2aed3))
+
 # [1.2.0](https://github.com/bdilhof/test-package/compare/v1.1.1...v1.2.0) (2026-02-04)
 
 
