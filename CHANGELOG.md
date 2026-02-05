@@ -1,3 +1,18 @@
+# [1.4.0](https://github.com/bdilhof/test-package/compare/v1.3.1...v1.4.0) (2026-02-05)
+
+
+### Bug Fixes
+
+* New feature 1 FIX ([6a83f4a](https://github.com/bdilhof/test-package/commit/6a83f4ade71ef7b24007bfe04ea8adc3ef6e284c))
+* New feature 2 FIX ([1d7de14](https://github.com/bdilhof/test-package/commit/1d7de14ce7e48a2a65a4c21b436887e43dc50e5a))
+
+
+### Features
+
+* New feature 1 ([887faa4](https://github.com/bdilhof/test-package/commit/887faa42daeff5274fc0e7e8694bfd6d7aa359e4))
+* New feature 2 ([ddbc791](https://github.com/bdilhof/test-package/commit/ddbc79195c66f8244384443517236ff673d47403))
+* New feature 3 ([8ec7728](https://github.com/bdilhof/test-package/commit/8ec7728ced8be583fe32298dd54dc86af22c699c))
+
 ## [1.3.1](https://github.com/bdilhof/test-package/compare/v1.3.0...v1.3.1) (2026-02-05)
 
 
