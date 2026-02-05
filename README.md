@@ -3,4 +3,4 @@
 - Add new feature
 - Fixed feature
 - New feature
-- New feature again
+- New feature again FIXED
